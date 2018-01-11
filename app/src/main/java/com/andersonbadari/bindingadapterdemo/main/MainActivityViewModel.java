@@ -1,4 +1,4 @@
-package com.andersonbadari.bindingadapterdemo;
+package com.andersonbadari.bindingadapterdemo.main;
 
 import android.databinding.ObservableField;
 import android.os.Handler;

@@ -1,4 +1,4 @@
-package com.andersonbadari.bindingadapterdemo;
+package com.andersonbadari.bindingadapterdemo.main;
 
 import android.databinding.BindingAdapter;
 import android.widget.ImageView;

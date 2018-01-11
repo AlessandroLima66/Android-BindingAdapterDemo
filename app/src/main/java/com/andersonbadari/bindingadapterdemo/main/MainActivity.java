@@ -1,10 +1,11 @@
-package com.andersonbadari.bindingadapterdemo;
+package com.andersonbadari.bindingadapterdemo.main;
 
 import android.databinding.DataBindingUtil;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
+import com.andersonbadari.bindingadapterdemo.R;
 import com.andersonbadari.bindingadapterdemo.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
